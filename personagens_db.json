@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Lohse",
+    "classe": "Encantadora",
+    "raca": "Humana",
+    "origem": "Cantora Itinerante",
+    "idade": 28,
+    "afiliacao": "Ordem da Fonte"
+  },
+  {
+    "id": 2,
+    "nome": "Ifan ben-Mezd",
+    "classe": "Cacador de Recompensas",
+    "raca": "Humano",
+    "origem": "Mercenario",
+    "idade": 35,
+    "afiliacao": "Lucian the Divine"
+  },
+  {
+    "id": 3,
+    "nome": "Fane",
+    "classe": "Feiticeiro",
+    "raca": "Esqueleto Eterno",
+    "origem": "Arqueologo",
+    "idade": "Desconhecida (milenios)",
+    "afiliacao": "Setimo Senhor"
+  },
+  {
+    "id": 4,
+    "nome": "Beast",
+    "classe": "Ladino",
+    "raca": "Anao",
+    "origem": "Pirata",
+    "idade": 42,
+    "afiliacao": "Rainha Justinia"
+  },
+  {
+    "id": 5,
+    "nome": "Red Prince",
+    "classe": "Guerreiro",
+    "raca": "Lizarman",
+    "origem": "Nobre Exilado",
+    "idade": 31,
+    "afiliacao": "Imperio dos Lizarmas"
+  },
+  {
+    "id": 6,
+    "nome": "Sebille",
+    "classe": "Assassina",
+    "raca": "Elfa",
+    "origem": "Escrava Fugitiva",
+    "idade": 89,
+    "afiliacao": "Scion of Shadow"
+  }
+]
